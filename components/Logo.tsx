@@ -3,7 +3,7 @@ export default function Logo() {
     <div className="text-center">
 
       <h1
-        className="text-6xl md:text-8xl tracking-wide font-serif text-white"
+        className="text-5xl md:text-7xl tracking-wide font-serif text-white"
         style={{
           fontFamily: "Cormorant Garamond, serif",
           fontWeight: 700,
