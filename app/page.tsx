@@ -24,8 +24,7 @@ export default function Home() {
         </p>
 
         <p className="mt-4 text-lg text-gray-400 leading-8">
-          Em breve nosso novo site estará no ar, com conteúdos,
-          resultados, cases e muito mais.
+          Estratégias de tráfego pago - Marketing Digital para crescimento de empresas e projetos pessoais.
         </p>
 
         <div className="mt-14 inline-flex items-center gap-3 rounded-full border border-white/10 bg-white/5 px-8 py-4 text-gray-300 backdrop-blur-md">
